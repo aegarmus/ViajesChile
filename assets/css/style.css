@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+ 
+.navColor {
+    background-color: #17a3b8;
+}
+
+.ancho {
+    background-color: #17a3b8;
+    height: 1px;
+    width: auto;
+}
+
+.bgColor {
+    background-color: black;
+}
+
+.bord {
+    border-color: black;
+}
+
+.tamano {
+    width: 288px;
+    height: 192px;
+}
+
+#footer {
+    background-color: #17a3b8;
+}
