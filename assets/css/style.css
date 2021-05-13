@@ -4,8 +4,20 @@ body {
 }
  
 /* Navbar */
-.navColor {
+.relleno{
     background-color: #17a3b8;
+}
+
+.relleno2 {
+    background-color: black;
+}
+
+.carousel-item img {
+    max-height: 100vh;
+}
+
+.mrgn {
+    margin-top: -57px;
 }
 
 /* pesos de fuente */
